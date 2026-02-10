@@ -1,25 +1,3 @@
 BasedOnStyle: LLVM
-
 IndentWidth: 4
-TabWidth: 4
-# UseTab: Never
-#
-# AlignConsecutiveAssignments: true
-# AlignConsecutiveDeclarations: true
-# AlignTrailingComments: true
-#
-# ColumnLimit: 80
-#
-# AllowAllParametersOfDeclarationOnNextLine: false
-# BinPackParameters: false
-# BinPackArguments: false
-#
-# KeepEmptyLinesAtTheStartOfBlocks: false
-# DerivePointerAlignment: false
-# PointerAlignment: Left
-#
-# BreakBeforeBinaryOperators: All
-# BreakBeforeBraces: Custom
-# BraceWrapping:
-#     BeforeElse: true
-#
+# IndentPPDirectives: BeforeHash
