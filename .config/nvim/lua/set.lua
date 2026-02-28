@@ -14,6 +14,7 @@ vim.o.list = true
 vim.o.listchars = "tab:>-,trail:·,extends:>,precedes:<,nbsp:␣"
 vim.o.cindent = true
 vim.o.cinoptions = ':0,l1'
+vim.o.winborder = 'rounded'
 
 vim.api.nvim_create_autocmd("FileType", {
   pattern = "*",
