@@ -4,6 +4,7 @@ vim.call('plug#begin')
 
 Plug('git@github.com:tpope/vim-sensible.git')
 Plug('git@github.com:stevearc/oil.nvim.git')
+Plug('git@github.com:mbbill/undotree.git')
 
 -- Colors --
 Plug('git@github.com:projekt0n/caret.nvim.git')
